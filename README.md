@@ -15,3 +15,5 @@ It is a simple project about crowdfunding which can give you a real experience t
 * cd flutter_uas
 * flutter pub get
 * flutter run
+
+Backend : http://dona-link.dermaone.my.id
