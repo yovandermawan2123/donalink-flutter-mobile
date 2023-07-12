@@ -1,16 +1,16 @@
-# flutter_uas
+# Donalink
 
-A new Flutter project.
+# Definition
+It is a simple project about crowdfunding which can give you a real experience to simulate the donation with payment gateway
 
-## Getting Started
+#Requirement
+Flutter Version 3.0.1 (Null Safety)
+Dart > 2.0
+HTTP
+GetX
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Instalation
+$ git clone 
+$ cd flutter_uas
+$ flutter pub get
+$ flutter run
